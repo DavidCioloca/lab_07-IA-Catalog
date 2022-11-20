@@ -1,0 +1,41 @@
+<!doctype html>
+
+<html>
+ <head>
+   <title>Agenda studenti</title>
+   <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+   <link rel="stylesheet" href="stilSlideShow.css">
+  </head>
+  
+  
+  <body>
+    <h2>Informatica Aplicata
+	  <br>an universitar 2022-2023</h2>
+	  
+	  
+    <h1>Catalogul colegilor</h1>
+	<div class="slideshow-container">
+	 <div class="mySlides fade">
+	   <img src="20221102_181018jpg" style="width:100%>
+	    <div class="linkPag">
+		 <br><a href="test.html">Student X</a>
+		</div>
+	</div>
+	<div class="mySlides fade">
+	 <img src="WhatsApp Image 2022-11-10 at 19.45.20.jpg" style="width:100%">
+	   <div class="linkPag">
+	    <br><a href="profil_student_1.html">Student Y</a>
+	   </div>
+	 </div>
+	<div class="mySlides fade">
+	 <img src="WhatsApp Image 2022-11-06 at 14.56.59.jpg" style="width:100%">
+	   <div class="linkPag">
+	    <br><a href="test.html">Student Z</a>
+	   </div>
+	  </div>
+	 </div>
+	 
+	<script src="slideShowColegi.js"></script>
+	
+  </body>
+</html>
